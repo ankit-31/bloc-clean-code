@@ -1,16 +1,5 @@
 # bloccleancode
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+simple login page(with  session manage) and movielist page with clean coding
+<img width="303" height="614" alt="Screenshot 2025-11-22 at 16 05 48" src="https://github.com/user-attachments/assets/44a9c154-9fb1-45ad-9aef-7379a6245e01" />
+<img width="303" height="614" alt="Screenshot 2025-11-22 at 16 05 58" src="https://github.com/user-attachments/assets/436a0958-7e97-4bac-bf3c-22c31a519df5" />
