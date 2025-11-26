@@ -37,7 +37,7 @@ class LoginBloc extends Bloc<LoginEvent,LoginState>{
     //now we need to map as data contains email and pasword
 
 
-    Map data={
+    Map data={//dart to json 
       'email':state.email,
       'password':state.password,
     };
